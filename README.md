@@ -355,9 +355,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Tamman Montanaro - [@LinkedIn](https://www.linkedin.com/in/tamman-montanaro-38266b144/)
 
-Project Link: [https://github.com/yourusername/crossword-game](https://github.com/yourusername/crossword-game)
+Project Link: [https://github.com/tammanmonty/crossword-game-engine-repo](https://github.com/tammanmonty/crossword-game-engine-repo)
 
 ---
 
