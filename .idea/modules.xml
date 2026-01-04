@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../crossword-data-pipeline-repo/.idea/crossword-data-pipeline-repo.iml" filepath="$PROJECT_DIR$/../crossword-data-pipeline-repo/.idea/crossword-data-pipeline-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/crossword-game-engine-repo.iml" filepath="$PROJECT_DIR$/.idea/crossword-game-engine-repo.iml" />
     </modules>
   </component>
